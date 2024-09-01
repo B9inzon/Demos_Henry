@@ -1,10 +1,10 @@
-import './App.css'
+import { Characters } from './views/Characters'
 
 function App() {
 
   return (
     <>
-      
+      <Characters/>      
     </>
   )
 }
