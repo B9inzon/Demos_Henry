@@ -1,10 +1,13 @@
-import { Characters } from './views/Characters'
+// import { Characters } from "./views/characters/Characters"
+
+import { Form } from "./views/ReactForm/loginForm"
 
 function App() {
 
   return (
     <>
-      <Characters/>      
+      {/* <Characters/>       */}
+      <Form/>
     </>
   )
 }
